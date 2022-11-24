@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzJob", "QuartzJob.csproj", "{8D0EAB6E-8011-453A-BE4A-9F6604E9860E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0EAB6E-8011-453A-BE4A-9F6604E9860E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0EAB6E-8011-453A-BE4A-9F6604E9860E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0EAB6E-8011-453A-BE4A-9F6604E9860E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0EAB6E-8011-453A-BE4A-9F6604E9860E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F99E5EA8-A7D3-428C-95A0-E9C5FCB8E319}
+	EndGlobalSection
+EndGlobal
